@@ -1,0 +1,47 @@
+.site-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+}
+
+/* Header styling */
+header {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+nav ul.menu {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul.menu li {
+    margin: 0 15px;
+}
+
+nav ul.menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+
+nav ul.menu li a i {
+    margin-right: 8px;
+    font-size: 20px;
+}
+
+/* Icon hover effect */
+nav ul.menu li a:hover {
+    color: #ff4081; /* Change the color on hover */
+}

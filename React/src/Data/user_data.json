@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Alice Johnson",
+        "dob": "1995-04-12",
+        "gender": "Female",
+        "location": "New York, NY",
+        "bio": "Bookworm, coffee lover, and part-time traveler. Always up for an adventure!",
+        "interests": ["Reading", "Traveling", "Coffee", "Yoga"],
+        "email": "alice.johnson@example.com",
+        "mobile": "+1-555-1234",
+        "password": "password123"
+    },
+    {
+        "name": "Michael Smith",
+        "dob": "1992-09-08",
+        "gender": "Male",
+        "location": "Los Angeles, CA",
+        "bio": "Tech enthusiast, guitar player, and foodie. Exploring new places and meeting new people.",
+        "interests": ["Technology", "Music", "Food", "Hiking"],
+        "email": "michael.smith@example.com",
+        "mobile": "+1-555-5678",
+        "password": "password456"
+    },
+    {
+        "name": "Sophie Williams",
+        "dob": "1999-03-14",
+        "gender": "Female",
+        "location": "Chicago, IL",
+        "bio": "Creative spirit with a love for art and photography. Let's capture beautiful moments together.",
+        "interests": ["Art", "Photography", "Travel", "Cooking"],
+        "email": "sophie.williams@example.com",
+        "mobile": "+1-555-9876",
+        "password": "password789"
+    },
+    {
+        "name": "James Brown",
+        "dob": "1995-07-22",
+        "gender": "Male",
+        "location": "Houston, TX",
+        "bio": "Sports fanatic and fitness guru. Seeking someone to join me on my health journey.",
+        "interests": ["Fitness", "Sports", "Cooking", "Movies"],
+        "email": "james.brown@example.com",
+        "mobile": "+1-555-3456",
+        "password": "password101"
+    },
+    {
+        "name": "Olivia Davis",
+        "dob": "1997-11-05",
+        "gender": "Female",
+        "location": "Phoenix, AZ",
+        "bio": "Animal lover and aspiring veterinarian. I love spending time outdoors with my dog.",
+        "interests": ["Animals", "Hiking", "Traveling", "Music"],
+        "email": "olivia.davis@example.com",
+        "mobile": "+1-555-7890",
+        "password": "password202"
+    },
+    {
+        "name": "Ethan Miller",
+        "dob": "1991-05-10",
+        "gender": "Male",
+        "location": "Philadelphia, PA",
+        "bio": "Entrepreneur and adventure seeker. Passionate about business and the great outdoors.",
+        "interests": ["Business", "Adventure", "Travel", "Fitness"],
+        "email": "ethan.miller@example.com",
+        "mobile": "+1-555-6543",
+        "password": "password303"
+    },
+    {
+        "name": "Isabella Garcia",
+        "dob": "1998-06-15",
+        "gender": "Female",
+        "location": "San Antonio, TX",
+        "bio": "Fashion designer with a love for creativity. Seeking someone to explore the art world with me.",
+        "interests": ["Fashion", "Art", "Travel", "Music"],
+        "email": "isabella.garcia@example.com",
+        "mobile": "+1-555-2345",
+        "password": "password404"
+    },
+    {
+        "name": "Daniel Martinez",
+        "dob": "1989-12-20",
+        "gender": "Male",
+        "location": "San Diego, CA",
+        "bio": "Passionate about cooking and discovering new cuisines. Let's enjoy a meal together!",
+        "interests": ["Cooking", "Traveling", "Music", "Sports"],
+        "email": "daniel.martinez@example.com",
+        "mobile": "+1-555-8765",
+        "password": "password505"
+    },
+    {
+        "name": "Emma Thomas",
+        "dob": "1993-08-18",
+        "gender": "Female",
+        "location": "Dallas, TX",
+        "bio": "Fitness enthusiast and nature lover. I enjoy hiking and exploring new trails.",
+        "interests": ["Fitness", "Hiking", "Travel", "Yoga"],
+        "email": "emma.thomas@example.com",
+        "mobile": "+1-555-4321",
+        "password": "password606"
+    },
+    {
+        "name": "Noah Jackson",
+        "dob": "1995-01-30",
+        "gender": "Male",
+        "location": "San Jose, CA",
+        "bio": "Music producer and avid concert-goer. Seeking someone who shares my love for live music.",
+        "interests": ["Music", "Concerts", "Travel", "Movies"],
+        "email": "noah.jackson@example.com",
+        "mobile": "+1-555-0987",
+        "password": "password707"
+    },
+    {
+        "name": "Ava White",
+        "dob": "1992-03-07",
+        "gender": "Female",
+        "location": "Austin, TX",
+        "bio": "Yoga instructor with a passion for wellness. Let's find balance together.",
+        "interests": ["Yoga", "Wellness", "Travel", "Cooking"],
+        "email": "ava.white@example.com",
+        "mobile": "+1-555-2109",
+        "password": "password808"
+    },
+    {
+        "name": "Liam Harris",
+        "dob": "1997-11-23",
+        "gender": "Male",
+        "location": "Columbus, OH",
+        "bio": "Software developer and gamer. Always up for a challenge, both in code and in life.",
+        "interests": ["Technology", "Gaming", "Cooking", "Travel"],
+        "email": "liam.harris@example.com",
+        "mobile": "+1-555-3210",
+        "password": "password909"
+    },
+    {
+        "name": "Mia Clark",
+        "dob": "1999-04-10",
+        "gender": "Female",
+        "location": "Charlotte, NC",
+        "bio": "Aspiring chef with a love for flavors. Let's cook up some fun together.",
+        "interests": ["Cooking", "Travel", "Music", "Movies"],
+        "email": "mia.clark@example.com",
+        "mobile": "+1-555-7654",
+        "password": "password010"
+    },
+    {
+        "name": "Lucas Lewis",
+        "dob": "1995-09-02",
+        "gender": "Male",
+        "location": "Indianapolis, IN",
+        "bio": "Engineer and sports fan. Looking for someone who shares my passion for innovation.",
+        "interests": ["Engineering", "Sports", "Travel", "Reading"],
+        "email": "lucas.lewis@example.com",
+        "mobile": "+1-555-5432",
+        "password": "password111"
+    },
+    {
+        "name": "Sophia Hall",
+        "dob": "1998-02-14",
+        "gender": "Female",
+        "location": "Seattle, WA",
+        "bio": "Nature lover and environmentalist. Let's make the world a greener place together.",
+        "interests": ["Environment", "Hiking", "Yoga", "Photography"],
+        "email": "sophia.hall@example.com",
+        "mobile": "+1-555-6543",
+        "password": "password212"
+    },
+    {
+        "name": "Aiden Young",
+        "dob": "1990-06-30",
+        "gender": "Male",
+        "location": "Denver, CO",
+        "bio": "Adventure seeker and photographer. Let's capture the beauty of the world together.",
+        "interests": ["Photography", "Adventure", "Travel", "Fitness"],
+        "email": "aiden.young@example.com",
+        "mobile": "+1-555-8765",
+        "password": "password313"
+    },
+    {
+        "name": "Amelia King",
+        "dob": "1995-10-17",
+        "gender": "Female",
+        "location": "Washington, DC",
+        "bio": "Politics enthusiast and book lover. Let's discuss ideas and create meaningful connections.",
+        "interests": ["Politics", "Reading", "Travel", "Cooking"],
+        "email": "amelia.king@example.com",
+        "mobile": "+1-555-4321",
+        "password": "password414"
+    },
+    {
+        "name": "Mason Lee",
+        "dob": "1992-12-25",
+        "gender": "Male",
+        "location": "Boston, MA",
+        "bio": "History buff and museum-goer. Seeking someone to explore the past and create a future.",
+        "interests": ["History", "Museums", "Travel", "Food"],
+        "email": "mason.lee@example.com",
+        "mobile": "+1-555-0987",
+        "password": "password515"
+    },
+    {
+        "name": "Charlotte Walker",
+        "dob": "1993-11-30",
+        "gender": "Female",
+        "location": "Nashville, TN",
+        "bio": "Music lover and songwriter. Let's create a melody together.",
+        "interests": ["Music", "Songwriting", "Travel", "Yoga"],
+        "email": "charlotte.walker@example.com",
+        "mobile": "+1-555-2109",
+        "password": "password616"
+    },
+    {
+        "name": "Evelyn Scott",
+        "dob": "1991-07-05",
+        "gender": "Female",
+        "location": "San Francisco, CA",
+        "bio": "Tech entrepreneur with a passion for innovation. Let's build something great together.",
+        "interests": ["Technology", "Innovation", "Travel", "Fitness"],
+        "email": "evelyn.scott@example.com",
+        "mobile": "+1-555-3210",
+        "password": "password717"
+    },
+    {
+        "name": "Logan Green",
+        "dob": "1988-03-20",
+        "gender": "Male",
+        "location": "Las Vegas, NV",
+        "bio": "Entrepreneur and poker enthusiast. Seeking someone to take risks and enjoy the game of life.",
+        "interests": ["Entrepreneurship", "Poker", "Travel", "Fitness"],
+        "email": "logan.green@example.com",
+        "mobile": "+1-555-7654",
+        "password": "password818"
+    }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": {
+      "id": "name",
+      "name": "Name",
+      "placeholder": "Enter Your Name",
+      "type": "text"
+    }
+  },
+  {
+    "email": {
+      "id": "email",
+      "name": "Email",
+      "placeholder": "Enter Your Email",
+      "type": "email"
+    }
+  },
+  {
+    "password": {
+      "id": "password",
+      "name": "Password",
+      "placeholder": "Enter Your Password",
+      "type": "password"
+    }
+  },
+  {
+    "confirmPassword": {
+      "id": "confirmPassword",
+      "name": "Confirm Password",
+      "placeholder": "Confirm Your Password",
+      "type": "password"
+    }
+  },
+  {
+    "dob": {
+      "id": "dob",
+      "name": "Date of Birth",
+      "placeholder": "Enter Your Date of Birth",
+      "type": "date"
+    }
+  },
+  {
+    "bio": {
+      "id": "bio",
+      "name": "Bio",
+      "placeholder": "Tell us about yourself",
+      "type": "textarea"
+    }
+  },
+  {
+    "mobile": {
+      "id": "mobile",
+      "name": "Mobile Number",
+      "placeholder": "Enter Your Mobile Number",
+      "type": "tel"
+    }
+  },
+  {
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "placeholder": "Enter Your Interests",
+      "type": "text"
+    }
+  },
+  {
+    "gender": {
+      "id": "gender",
+      "name": "Gender",
+      "placeholder": "Select Your Gender",
+      "type": "text"
+    }
+  },
+  {
+    "location": {
+      "id": "location",
+      "name": "location",
+      "placeholder": "Enter Your Location",
+      "type": "text"
+    }
+  }
+]
