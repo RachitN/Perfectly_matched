@@ -1,0 +1,11 @@
+2025-03-28 13:55:22,823 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2025-03-28 13:55:27,255 django.request ERROR    Internal Server Error: /api/login
+2025-03-28 13:55:43,906 django.utils.autoreload INFO     C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+2025-03-28 13:55:45,793 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2025-03-28 13:55:49,067 django.request ERROR    Internal Server Error: /api/login
+2025-03-28 13:55:52,074 django.request ERROR    Internal Server Error: /api/login
+2025-03-28 13:58:15,360 django.utils.autoreload INFO     C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+2025-03-28 13:58:17,040 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2025-03-28 13:58:22,157 django.request ERROR    Internal Server Error: /api/login
+2025-03-28 13:58:34,259 django.request ERROR    Internal Server Error: /api/login
+2025-03-28 13:59:01,285 django.utils.autoreload INFO     C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.

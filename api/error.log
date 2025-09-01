@@ -1,0 +1,120 @@
+Internal Server Error: /api/login
+"POST /api/login HTTP/1.1" 500 221
+Internal Server Error: /api/login
+"POST /api/login HTTP/1.1" 500 221
+Internal Server Error: /api/login
+"POST /api/login HTTP/1.1" 500 221
+Internal Server Error: /api/login
+"POST /api/login HTTP/1.1" 500 69
+Internal Server Error: /api/login
+"POST /api/login HTTP/1.1" 500 69
+Internal Server Error: /api/login
+"POST /api/login HTTP/1.1" 500 69
+Internal Server Error: /api/login
+"POST /api/login HTTP/1.1" 500 69
+Internal Server Error: /api/login
+"POST /api/login HTTP/1.1" 500 69
+Internal Server Error: /api/login
+"POST /api/login HTTP/1.1" 500 69
+Internal Server Error: /api/login
+"POST /api/login HTTP/1.1" 500 97
+[2025-03-28 15:55:37,245] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 15:55:47,793] [INFO] [django.server] "OPTIONS /api/login HTTP/1.1" 200 0
+[2025-03-28 15:55:48,006] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 15:56:25,895] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 15:56:27,835] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 15:56:31,238] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 15:57:52,737] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 15:58:37,985] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 15:58:44,266] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 15:59:29,619] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 15:59:31,439] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:00:02,497] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:01:16,506] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:01:20,863] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:02:23,181] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:02:24,919] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:02:29,427] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:02:54,948] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:02:56,754] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:03:00,911] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:03:18,736] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:03:20,476] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:03:24,224] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:03:58,031] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:03:59,822] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:04:03,353] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:04:05,157] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:04:08,387] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:04:37,877] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:04:50,952] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:04:54,517] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:06:01,342] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:06:03,048] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:06:06,721] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:24:19,980] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:24:21,870] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:24:26,674] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:24:31,431] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:25:33,778] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:25:35,553] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:25:39,123] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:26:01,109] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:26:02,843] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:26:05,760] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:26:54,477] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:26:56,289] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:27:01,630] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:28:31,267] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:28:33,015] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:28:36,816] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:29:30,097] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:29:31,761] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:29:41,965] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:29:43,835] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:30:02,647] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:30:20,397] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:31:24,290] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:31:26,158] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:31:30,750] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:31:44,818] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:31:46,512] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:31:51,209] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:32:27,023] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:32:28,713] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:32:32,294] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:32:47,048] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:32:48,840] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:32:52,725] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:33:33,367] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:33:35,090] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:33:38,764] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:33:59,272] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:34:01,028] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:34:04,553] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:34:28,436] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:34:30,471] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:34:34,215] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:34:37,159] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:35:21,238] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:35:23,101] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:35:26,688] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:40:19,047] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:40:20,770] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:40:24,770] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:43:40,257] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:43:42,224] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:43:48,394] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:44:04,217] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:44:05,972] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:44:10,953] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:44:16,058] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:44:20,721] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:46:30,510] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:46:32,123] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:46:35,845] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:49:06,150] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\login\views.py changed, reloading.
+[2025-03-28 16:49:08,074] [INFO] [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-03-28 16:49:11,411] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:49:29,225] [INFO] [django.server] "POST /api/login HTTP/1.1" 200 87
+[2025-03-28 16:50:00,097] [INFO] [django.utils.autoreload] C:\Users\rachit.nagwani\Documents\Angular\perfectly_matched\api\api\settings.py changed, reloading.
