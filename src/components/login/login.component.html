@@ -1,0 +1,13 @@
+<div class='login'>
+    <div class="login-box">
+        <div class="welcome-text">Let's drive you to meet your perfect match</div>
+        <form >
+            <label for="email">Email:</label><br>
+            <input  type="email" id="email" name="email" [(ngModel)]="email"/><br>
+            <label for="password">Password:</label><br>
+            <input  type="password" id="password" name="password" [(ngModel)]="password"/><br>
+            <button type="submit" (click)="loginUser()">Login</button>
+        </form>
+        <a href="" class="register-link"><Link to="/signup">New User? Register Here</a>
+    </div>
+</div>

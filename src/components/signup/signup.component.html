@@ -1,0 +1,11 @@
+<div class='signup'>
+    <div class="login-box">
+    <div class="welcome-text">Let's Start Your Jorney to meet your perfect match</div>
+      <form className='sign_up_form' (submit)="next($event)" >
+       <app-signup-input [id]="field.id" [name]="field.name" [placeholder]="field.placeholder" [type]="field.type" [value]="field.value"></app-signup-input>
+       <button *ngIf="fieldNo < 9" type="submit">Next</button>
+       <button *ngIf="fieldNo === 9" type="submit">Register</button> 
+      </form>
+          <h5>Already a User. <Link to="/login">Login Here  </h5> 
+      </div>
+</div>
